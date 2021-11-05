@@ -1,6 +1,8 @@
 # Secure-Code-Creator
 一个基于安全文件MD5值的强密码生成器
 
+Copyright (c) 2020 Steve D. J..All rights reserved.
+
 使用方法：下载Release版本压缩包，解压后运行SecureCodeCreator.exe，按照程序内文字指引操作即可。
 
 设计思想：
